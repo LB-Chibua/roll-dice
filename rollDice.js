@@ -17,7 +17,6 @@ const diceRoll4 = (dieOne4, dieTwo4) => {
     };
 }
 
-console.log(diceRoll4(roll1,roll2));
 
 // This is a program for a function that takes no parameters.
 // Inside the function, assign two variables a random dice number between 1 and 6 (inclusive).
@@ -38,5 +37,3 @@ const diceRoll = () => {
         return "Roll the dice again";
     };
 }
-
-console.log(diceRoll())
